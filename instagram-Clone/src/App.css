@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+/* body {
+    color: rgb(226, 226, 226);
+} */
+
+a {
+  text-decoration: none;
+}
+
+.border-md-up {
+  border: 1px solid #dbdbdb;
+}
+
+@media (max-width: 767px) {
+  .border-md-up {
+    border: none;
+  }
+  .fbkMbl {
+    display: none !important;
+  }
+}
